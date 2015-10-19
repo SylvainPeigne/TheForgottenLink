@@ -22,7 +22,7 @@
   <build>
     <option directives="" />
     <option flashStrict="False" />
-    <option mainClass="com.example.memory" />
+    <option mainClass="com.example.game" />
     <option enabledebug="False" />
     <option additional="" />
   </build>
